@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 # Rhyme Rubayet
 **Full Stack Engineer | Dhaka, Bangladesh**
 
@@ -17,10 +15,7 @@
 
 </div>
 
-
 ---
-
-
 
 ### 📖 Professional Profile
 
@@ -31,8 +26,6 @@ I am a dedicated Software Developer specializing in scalable software engineerin
 - 🚀 **Current Phase**: Actively exploring complex problem-solving through Python and Jupyter Notebooks.
 
 ---
-
-
 
 ### 🛠️ Technical Ecosystem
 
@@ -48,38 +41,27 @@ Across my development journey, I have cultivated a versatile skill set with a pr
 
 ---
 
-
-
 ### 🌟 Featured Repositories
 
-**[FullStack Online BookShop](https://github.com/rubayet211/FullStack_Online_BookShop)**  
-A complete e-commerce solution built with modern web standards.  
+**[FullStack Online BookShop](https://github.com/rubayet211/FullStack_Online_BookShop)**
+A complete e-commerce solution built with modern web standards.
 `TypeScript`
 
-**[Time-Travel-Of-War](https://github.com/rubayet211/Time-Travel-Of-War)**  
-A computer graphics project developed using GLUT in C++. Features a subject capable of navigating time within a laboratory setting.  
+**[Time-Travel-Of-War](https://github.com/rubayet211/Time-Travel-Of-War)**
+A computer graphics project developed using GLUT in C++. Features a subject capable of navigating time within a laboratory setting.
 `C++` `Computer Graphics`
 
-**[supershoppython](https://github.com/rubayet211/supershoppython)**  
-Efficient e-commerce logic implementation.  
+**[supershoppython](https://github.com/rubayet211/supershoppython)**
+Efficient e-commerce logic implementation.
 `Python`
 
-**[Javascript-Journey](https://github.com/rubayet211/Javascript-Journey)**  
-A comprehensive documentation of my technical progression and milestones within the JavaScript ecosystem.  
+**[Javascript-Journey](https://github.com/rubayet211/Javascript-Journey)**
+A comprehensive documentation of my technical progression and milestones within the JavaScript ecosystem.
 `JavaScript`
 
 ---
 
-
-
 ### 📊 GitHub Insights
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubayet211&show_icons=true&theme=distinguished&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubayet211&layout=compact&theme=distinguished&hide_border=true" alt="Top Languages" height="150" />
-</div>
-
 
 <details>
 <summary><b>Detailed Repository Statistics</b></summary>
@@ -92,7 +74,6 @@ A comprehensive documentation of my technical progression and milestones within 
 </details>
 
 ---
-
 
 <div align="center">
 
